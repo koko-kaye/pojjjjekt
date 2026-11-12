@@ -1,0 +1,16 @@
+# Surowe dane zostają poza repozytorium (napisy, pełne transkrypcje, komentarze z nickami)
+data/raw/*
+!data/raw/.gitkeep
+
+# Klucze i pliki środowiska
+.env
+*.env
+
+# Jupyter i Python
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Systemowe
+.DS_Store
+Thumbs.db

@@ -1,0 +1,11 @@
+ipykernel
+pandas
+numpy
+matplotlib
+plotly
+networkx
+requests
+beautifulsoup4
+lxml
+openai
+scikit-learn
